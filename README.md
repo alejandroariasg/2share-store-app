@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 2share-store-app
-Full-stack technical laboratory for Java Spring Boot, MySQL, and React developers
-=======
 # 🛒 2Share Store Web Application
 
 This is a full-stack web application that allows users to:
@@ -168,4 +164,3 @@ npm run dev
 - ✅ React UI with Bootstrap
 - ✅ Responsive and user-friendly design
 - ✅ Proper error and access handling
->>>>>>> 544d8dd (Add README.md)
