@@ -1,0 +1,11 @@
+# === Node (Frontend: /client) ===
+store-frontend/node_modules/
+store-frontend/.vite/
+store-frontend/dist/
+
+# === Java (Backend: /store) ===
+store-backend/target/
+store-backend/.classpath
+store-backend/.project
+store-backend/.settings/
+store-backend/*.iml
